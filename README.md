@@ -23,16 +23,12 @@ The dataset used for this project consists of labeled images belonging to differ
 - Future improvements such as data augmentation and transfer learning.
 
 ## How to Use
-1. Clone this repository:
-   ```bash
-   git clone <repository_url>
-   ```
-2. Install the required dependencies:
+1. Install the required dependencies:
    ```bash
    pip install numpy tensorflow opencv-python matplotlib
    ```
-3. Run the Jupyter Notebook to preprocess data and train the model.
-4. Evaluate the model performance using test images.
+2. Run the Jupyter Notebook to preprocess data and train the model.
+3. Evaluate the model performance using test images.
 
 ## Future Enhancements
 - Implementing **data augmentation** for better generalization.
